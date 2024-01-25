@@ -1,1 +1,3 @@
-# Nathan Sedmak 
+# Nathan Sedmak
+- ntsedmak@mines.edu
+- Golden, CO
