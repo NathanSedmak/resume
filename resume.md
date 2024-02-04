@@ -1,4 +1,4 @@
-# Nathan Sedmak
+# **Nathan Sedmak**
 ntsedmak@mines.edu
 
 Golden, CO
@@ -9,6 +9,7 @@ BS, Geophysical Engineering - expected graduation 5/2026
 
 Current GPA: 3.881
 
+[Unofficial Transcript(https://drive.google.com/file/d/15wZ_gGCE1t2CxEtdqIPupApFfL2Wl42g/view?usp=sharing)]
 ## Work Experience
 #### Kohl's, Fort Collins, CO - Seasonal Associate
 9/2021 - 11/2021
