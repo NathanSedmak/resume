@@ -1,6 +1,7 @@
 # Nathan Sedmak
-- ntsedmak@mines.edu
-- Golden, CO
+ntsedmak@mines.edu
+
+Golden, CO
 
 # Education
 ## Colorado School of Mines:
@@ -17,4 +18,8 @@ BS, Geophysical Engineering - expected graduation 5/2026
 9/2023 - present
 
 # Skills
-
+- Competent in Python and Matlab
+- Confident working in Microsoft Excel
+- Experienced with problem solving and critical thinking situations
+- Strong work ethic
+- Experienced with working on teams
