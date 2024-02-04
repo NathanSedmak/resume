@@ -1,5 +1,19 @@
 # Nathan Sedmak
-- ntsedmak@mines.edu
-- Colorado School of Mines
-- Geophysics Department
-- Golden, CO
+ntsedmak@mines.edu
+Golden, CO
+
+# Education
+## Colorado School of Mines:
+BS, Geophysical Engineering - expected graduation 5/2026
+
+# Work Experience
+## Kohl's, Fort Collins, CO - Seasonal Associate
+9/2021 - 11/2021
+
+## Colorado School of Mines Applied Math and Statistics Department, Golden, CO - Department Grader
+9/2023 - present
+
+## Kohl's, Golden, CO - Stockroom Associate
+9/2023 - present
+
+#Skills
