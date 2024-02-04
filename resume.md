@@ -3,7 +3,7 @@ ntsedmak@mines.edu
 
 Golden, CO
 
-![Resume Photo](https://drive.google.com/file/d/106fOGMrqT4uQ_l5oDZsTJdaWniWEexwp/view?usp=sharing)
+![Resume Photo](https://cdn.discordapp.com/attachments/1203551590359896064/1203551617409097829/unnamed.jpg?ex=65d181ca&is=65bf0cca&hm=f0430b409e34fc4257c1df5dbd82b52ee95eaa5ee59057e26301c2032fcda3b9&)
 
 # Education
 ## Colorado School of Mines:
