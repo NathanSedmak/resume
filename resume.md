@@ -1,6 +1,6 @@
 # Nathan Sedmak
-ntsedmak@mines.edu
-Golden, CO
+- ntsedmak@mines.edu
+- Golden, CO
 
 # Education
 ## Colorado School of Mines:
@@ -16,4 +16,5 @@ BS, Geophysical Engineering - expected graduation 5/2026
 ## Kohl's, Golden, CO - Stockroom Associate
 9/2023 - present
 
-#Skills
+# Skills
+
