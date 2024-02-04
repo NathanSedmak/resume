@@ -3,6 +3,8 @@ ntsedmak@mines.edu
 
 Golden, CO
 
+![Resume Photo](https://drive.google.com/file/d/106fOGMrqT4uQ_l5oDZsTJdaWniWEexwp/view?usp=sharing)
+
 # Education
 ## Colorado School of Mines:
 **BS, Geophysical Engineering** - expected graduation 5/2026
